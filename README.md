@@ -23,9 +23,6 @@ An end-to-end AI-powered solution to extract invoice data and auto-generate cred
 | OCR & Entity Extraction | Google Document AI |
 | Database          | Firestore (NoSQL)     |
 | File Storage      | Firebase Cloud Storage|
-| PDF Generation    | PDFKit / pdf-lib      |
-| Notifications     | Firebase Messaging / Twilio |
-
 ---
 
 ## 📂 Project Structure
